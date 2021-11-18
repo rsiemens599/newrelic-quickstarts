@@ -7,14 +7,14 @@ description: >-
 icon: icon.svg
 logo: logo.svg
 level: New Relic
-website: https://lacework.com/
+website: https://www.atlassian.com/software/jira
 authors:
   - New Relic, Inc
 documentation:
   - name: Errors Inbox installation docs
     description: For details on how to set-up Jira with Errors Inbox click the link below!
-    url: https://docs.newrelic.com/docs/errors-inbox/errors-inbox/
-  - name: Errors Inbox installation docs
+    url: https://docs.newrelic.com/docs/errors-inbox/errors-inbox/#jira
+  - name: CodeStream installation docs
     description: For details on how to set-up Jira with CodeStream click the link below!
     url: https://docs.newrelic.com/docs/codestream/troubleshooting/jira-server-integration/
 keywords:
